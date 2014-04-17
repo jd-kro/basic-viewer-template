@@ -130,7 +130,8 @@ body {
   padding:0px !important;
   height:34px;
   margin:0;
-  color:#fff;
+  /*color:#fff;*/
+ color: #004000;
 }
 /*override claro background and other props*/
 #toolbarContainer_bv .dijitToolbar {
